@@ -1,0 +1,6 @@
+input1=input("what is your first payment?")
+input2=input("What is your Second Payment?")
+input3=input("What is your Third Payment?")
+total=sum(input1)+sum(input2)+sum(input3)
+totalam=sum(total)
+print("Total:"+""+totalam)
